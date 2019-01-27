@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/johnmarkredding/npm-lab-dumbo-web-111918/issues"
   },
-  "homepage": "https://github.com/johnmarkredding/npm-lab-dumbo-web-111918#readme"
+  "homepage": "https://github.com/johnmarkredding/npm-lab-dumbo-web-111918#readme",
+  "dependencies": {
+    "learn-browser": "^0.1.17"
+  }
 }
