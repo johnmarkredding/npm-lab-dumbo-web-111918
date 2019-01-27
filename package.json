@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/johnmarkredding/npm-lab-dumbo-web-111918#readme",
   "dependencies": {
-    "learn-browser": "^0.1.17"
+    "learn-browser": "^0.1.17",
+    "moment": "^2.24.0"
   }
 }
